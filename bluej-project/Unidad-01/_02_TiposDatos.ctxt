@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=_02_TiposDatos
+comment0.text=\r\n\ Tipos\ primitivos\ en\ java\r\n\ Tipo\tAlmacena\tEjemplo\r\n\ byte\tEnteros\ peque\u00F1os\tbyte\ edad\ \=\ 20;\r\n\ short\tEnteros\ medianos\tshort\ cantidad\ \=\ 1000;\r\n\ int\tEnteros\ comunes\tint\ numero\ \=\ 6;\r\n\ long\tEnteros\ grandes\tlong\ poblacion\ \=\ 8000000000L;\r\n\ \r\n\ float\tDecimales\ con\ menor\ precisi\u00F3n\tfloat\ precio\ \=\ 3.14f;\r\n\ double\tDecimales\ con\ mayor\ precisi\u00F3n\tdouble\ pi\ \=\ 3.1416;\r\n\ \r\n\ char\tUn\ solo\ car\u00E1cter\tchar\ letra\ \=\ 'A';\r\n\ String\ \ \ \ Cadena\ de\ caracteres\tString\ nombre\ \=\ "Juan";\r\n\ \r\n\ boolean\ttrue\ o\ false\tboolean\ activo\ \=\ true;\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
