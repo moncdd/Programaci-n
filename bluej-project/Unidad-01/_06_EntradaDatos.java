@@ -13,11 +13,18 @@ public class _06_EntradaDatos
         java.util.Scanner teclado = new java.util.Scanner(System.in);
         
         // Inicializamos las variables con los datos del teclado
+        System.out.println("Edad: ");
         edad = teclado.nextInt(); // Recogemos el dato entero
+        System.out.println("Sueldo: ");
         sueldo = teclado.nextDouble(); // Recogemos el dato decimal
+        System.out.println("Nombre: ");
         nombre = teclado.next(); // Recogemos la cadena
-        apellido1 = teclado.nextLine(); // Recogemos la línea
-        apellido2 = teclado.nextLine(); // Recogemos la línea
+        System.out.println("Apellido 1: ");
+        apellido1 = teclado.next(); // Recogemos la línea
+        System.out.println("Apellido 2: ");
+        apellido2 = teclado.next(); // Recogemos la línea
+        teclado.nextLine(); // Limpiamos la entrada de datos
+        System.out.println("¿Aprobado? ");
         aprobado = teclado.nextBoolean(); // Recogemos el dato booleano
         
         
