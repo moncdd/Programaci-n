@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=_07_CastingDatos
+comment0.text=\r\n\ Casting\ de\ datos\r\n\ 1.\ Casting\ impl\u00EDcito\r\n\ Java\ realiza\ la\ conversi\u00F3n\ autom\u00E1ticamente\ cuando\ la\ conversi\u00F3n\ es\ segura,\ \r\n\ normalmente\ de\ un\ tipo\ con\ menor\ rango\ a\ otro\ con\ mayor\ rango.\r\n\ int\ ->\ double\r\n\ Es\ seguro\ porque\ un\ double\ puede\ representar,\ en\ general,\ los\ valores\ de\ un\ int\ \r\n\ sin\ que\ se\ produzca\ un\ desbordamiento\ por\ el\ rango.\r\n\ Un\ ejemplo\ habitual\ de\ conversiones\ num\u00E9ricas\ impl\u00EDcitas\ es\:\r\n\ byte\ \u2192\ short\ \u2192\ int\ \u2192\ long\ \u2192\ float\ \u2192\ double\r\n\ 2.\ Casting\ expl\u00EDcito\r\n\ Se\ utiliza\ cuando\ Java\ no\ puede\ hacer\ la\ conversi\u00F3n\ autom\u00E1ticamente,\ normalmente\ \r\n\ porque\ puede\ producirse\ una\ p\u00E9rdida\ de\ informaci\u00F3n.\r\n\ La\ sintaxis\ es\:\ (tipo)\ valor\r\n\ Por\ ejemplo\:\r\n\ int\ numero\ \=\ (int)\ decimal;\r\n\ Aqu\u00ED\ estamos\ indicando\ expl\u00EDcitamente\:\r\n\ 3.\ \u00BFPor\ qu\u00E9\ hace\ falta\ casting?\r\n\ Porque\ esta\ conversi\u00F3n\ no\ es\ necesariamente\ segura\:\r\n\ Java\ no\ permite\ esa\ conversi\u00F3n\ autom\u00E1ticamente\ porque\ pasar\ de\ double\ a\ int\ puede\ perder\ informaci\u00F3n.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

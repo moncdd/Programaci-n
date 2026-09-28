@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=_08_CastingCadenas
+comment0.text=\r\n\ Vamos\ a\ realizar\ las\ conversiones\ Cadena\ ->\ n\u00FAmero\ y\ N\u00FAmero\ ->\ cadena\ \r\n\ Para\ convertir\ n\u00FAmeros\ en\ cadenas,\ siempre\ usamos\ String.valueOf(miEntero);\r\n\ \r\n\ Para\ convertir\ cadenas\ en\ n\u00FAmeros,\ hay\ una\ funci\u00F3n\ para\ cada\ tipo\r\n\ Integer.parseInt(cadena);\r\n\ Double.parseDouble(cadena);\r\n\ Short.parseShort(cadena);\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -24,6 +24,18 @@ public class _07_CastingDatos
 {
     public static void main(String[] args)
     {
+        // Casting implícito
+        byte numB = 5;
+        int numI = 8;
+        double numD = 3.14;
+        
+        System.out.println("La suma de numB y numI es "+(numB + numI));
+        System.out.println("La suma de numI y numD es "+(numI + numD)); 
+        
+        // Casting explícito
+        System.out.println("La suma de numB y numI explícita "+((int)numB + numI));
+        System.out.println("La suma de numI y numD explícita "+((double)numI + numD));
+        System.out.println("La suma de numI y numD explícita "+(numI + (int)numD));
        
     }
 }
