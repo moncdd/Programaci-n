@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=_09_Constantes
+comment0.text=\r\n\ En\ Java,\ una\ constante\ es\ una\ variable\ cuyo\ valor\ no\ puede\ modificarse\ \r\n\ una\ vez\ asignado.\ Se\ utiliza\ final.\r\n\ \r\n\ 1.\ Declarar\ una\ constante\r\n\ final\ int\ EDAD_MINIMA\ \=\ 18;\r\n\ Si\ intentamos\ modificar\ el\ valor\ de\ la\ constante,\ \r\n\ Java\ dar\u00E1\ un\ error\ de\ compilaci\u00F3n\ porque\ una\ variable\ final\ \r\n\ no\ puede\ recibir\ otro\ valor.\r\n\ \r\n\ 2.\ Convenci\u00F3n\ para\ nombrar\ constantes\r\n\ Por\ convenio,\ las\ constantes\ se\ escriben\:\r\n\ MAY\u00DASCULAS_SEPARADAS_POR_GUIONES_BAJOS\r\n\ Por\ ejemplo\:\r\n\ final\ double\ IVA\ \=\ 0.21;\r\n\ final\ int\ EDAD_MINIMA\ \=\ 18;\r\n\ final\ String\ NOMBRE_CENTRO\ \=\ "IES\ Villaverde";\r\n\ final\ int\ NUMERO_MAXIMO_ALUMNOS\ \=\ 30;\r\n\ \r\n\ Esto\ permite\ distinguir\ f\u00E1cilmente\ las\ constantes\ de\ las\ variables\ normales\:\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
