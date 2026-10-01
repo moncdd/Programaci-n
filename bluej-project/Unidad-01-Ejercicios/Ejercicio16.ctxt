@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio16
+comment0.text=\ \r\n\ Realiza\ un\ programa\ que,\ dados\ las\ variables\ enteras\ edad,\ nivel\ de\ estudios\ e\ ingresos,\ \r\n\ almacene\ en\ una\ variable\ booleana\ llamada\ jasp\ el\ valor\ calculado\:\r\n\ Verdadero.\ Si\ la\ edad\ es\ menor\ o\ igual\ a\ 28,\ el\ nivel\ de\ estudios\ es\ mayor\ que\ tres\ \r\n\ y\ los\ ingresos\ superan\ los\ 28000\ euros\r\n\ Falso.\ En\ caso\ contrario.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

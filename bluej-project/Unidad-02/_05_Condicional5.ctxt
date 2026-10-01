@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=_05_Condicional5
+comment0.text=\r\n\ Estructura\ condicional\ switch\r\n\ Sirve\ para\ evaluar\ una\ \u00FAnica\ variable\ Y\ \r\n\ el\ tipo\ de\ dato\ sea\ cuantificable\ (int,\ char,\ string)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

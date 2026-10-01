@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio15
+comment0.text=\ \r\n\ Realiza\ un\ programa\ en\ java\ que\ genere\ letras\ \r\n\ de\ forma\ aleatoria.\ Para\ ello\ investiga\ el\ \r\n\ funcionamiento\ y\ uso\ de\ la\ funci\u00F3n\ Math.random();\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
