@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TareaAula01
+comment0.text=\r\n\ Crear\ un\ algoritmo\ que\ debe\ contener\ una\ constante\ llamada\ gravedad\ \r\n\ a\ la\ que\ le\ asignaremos\ el\ valor\ 9.8\ y\ las\ variables\ velocidad\ y\ tiempo,\ \r\n\ esta\ \u00FAltima\ tendr\u00E1\ asignado\ el\ valor\ de\ 2\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

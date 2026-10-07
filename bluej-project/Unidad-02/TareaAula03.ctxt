@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TareaAula03
+comment0.text=\r\n\ Evoluciona\ el\ algoritmo\ anterior\ para\ controlar\ que\ el\ valor\ \r\n\ introducido\ sea\ mayor\ que\ 0,\ en\ tal\ caso,\ se\ calcular\u00E1\ el\ valor\ \r\n\ de\ la\ velocidad\ (gravedad\ *\ tiempo).\ En\ caso\ de\ que\ el\ valor\ sea\ \r\n\ menor\ o\ igual\ a\ 0\ se\ mostrar\u00E1\ el\ mensaje\ "Tiempo\ incorrecto"\ y\ \r\n\ finalizar\u00E1\ el\ programa\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
