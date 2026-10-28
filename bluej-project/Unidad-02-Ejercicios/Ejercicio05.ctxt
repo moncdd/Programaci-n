@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio05
+comment0.text=\r\n\ 5.\ Programa\ que\ calcula\ el\ salario\ semanal\ \r\n\ de\ un\ empleado\ al\ que\ se\ le\ paga\ 15\ euros\ \r\n\ por\ hora\ si\ \u00E9stas\ no\ superan\ las\ 35\ horas.\ \r\n\ Cada\ hora\ por\ encima\ de\ 35\ se\ considerar\u00E1\ \r\n\ extra\ y\ se\ paga\ a\ 22\ \u20AC.\ El\ programa\ pide\ las\ \r\n\ horas\ del\ trabajador\ y\ devuelve\ el\ salario\ que\r\n\ se\ le\ debe\ pagar\ .\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

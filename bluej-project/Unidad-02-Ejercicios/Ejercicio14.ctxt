@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio14
+comment0.text=\r\n\ Con\ objeto\ de\ fomentar\ el\ ahorro\ energ\u00E9tico,\ el\ recibo\ de\ la\ electricidad\ se\ elabora\ \r\n\ de\ forma\ que\ el\ precio\ de\ cada\ Kw/h\ consumido\ es\ m\u00E1s\ caro\ cuanto\ m\u00E1s\ se\ consume\:\ \r\n\ \u2022\ 2\u20AC\ de\ gastos\ fijos\ \r\n\ \u2022\ 0,50\u20AC/Kwh\ para\ los\ primeros\ 100\ Kwh\ \r\n\ \u2022\ 0,70\u20AC/Khw\ para\ los\ siguientes\ 150\ Kwh\ \r\n\ \u2022\ 1\u20AC/Kwh\ para\ el\ resto\ \r\n\ Elabora\ un\ programa\ que\ lee\ de\ teclado\ los\ dos\ \u00FAltimos\ valores\ del\ contador\ \r\n\ (lo\ que\ marca\ actualmente\ y\ lo\ que\ marcaba\ en\ la\ \u00FAltima\ lectura),\ y\ calcula\ e\ \r\n\ imprime\ en\ pantalla\ el\ importe\ total\ a\ pagar.\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

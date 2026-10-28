@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio01
+comment0.text=\r\n\ 1.\ Programa\ que\ lee\ desde\ el\ teclado\ la\ nota\ \r\n\ de\ programaci\u00F3n\ de\ un\ alumno\ y\ nos\ dice\ si\ \r\n\ ha\ aprobado\ o\ no.\r\n\ Nota\:\ buscar\ en\ Internet\ c\u00F3mo\ leer\ datos\ con\ la\ clase\ Scanner.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

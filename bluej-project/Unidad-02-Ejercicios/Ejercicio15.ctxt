@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio15
+comment0.text=\r\n\ Una\ empresa\ tiene\ trabajadores\ de\ categor\u00EDas\ A,\ B\ y\ C.\ \r\n\ El\ sueldo\ por\ mes\ trabajado\ es\ de\ 1100\u20AC.\ \r\n\ Adem\u00E1s,\ cobran\ todos\ por\ trimestre\ un\ suplemento\ de\ 240\u20AC,\ excepto\ los\ de\ categor\u00EDa\ C.\ \r\n\ De\ \u00E9stos,\ en\ la\ secci\u00F3n\ 1\u00AA\ est\u00E1n\ los\ contratados\ por\ d\u00EDas,\ que\ cobran\ un\ suplemento\ de\ 0.5\ \u20AC\ \r\n\ por\ d\u00EDa\ trabajado\ y\ se\ les\ descuenta\ 30\ \u20AC\ por\ baja\ injustificada.\ \r\n\ El\ resto\ de\ las\ secciones\ de\ esta\ categor\u00EDa\ cobra\ 1.20\u20AC\ de\ suplemento\ por\ d\u00EDa\ trabajado\ y\ \r\n\ se\ les\ descuenta\ 10\u20AC\ por\ baja\ injustificada.\ \r\n\ Programa\ que\ lee\ los\ datos\ de\ un\ trabajador\ (tendr\u00E1s\ que\ leer\ los\ datos\ que\ necesites\ \r\n\ en\ funci\u00F3n\ de\ la\ categor\u00EDa\ y\ la\ secci\u00F3n)\ y\ nos\ calcula\ su\ sueldo\ final.\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

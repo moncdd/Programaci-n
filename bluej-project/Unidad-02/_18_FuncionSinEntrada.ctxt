@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=_18_FuncionSinEntrada
+comment0.text=\r\n\ Ejemplo\ de\ un\ subprograma\ que\ no\ tiene\ entrada\r\n\ y\ s\u00ED\ tiene\ salida\ (Funci\u00F3n)\r\n
+comment1.params=
+comment1.target=java.lang.String\ ejemplo()
+comment1.text=\r\n\ String\:\ indica\ que\ devuelve\ un\ dato\ String\r\n\ ()\:\ indica\ que\ no\ recibe\ datos\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

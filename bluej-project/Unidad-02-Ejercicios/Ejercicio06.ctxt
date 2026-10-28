@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio06
+comment0.text=\r\n\ 6.\ Programa\ que\ lee\ desde\ teclado\ \r\n\ las\ notas\ en\ programaci\u00F3n\ y\ marcas\ de\ \r\n\ un\ alumno\ y\ nos\ dice\ si\ ha\ aprobado\ \r\n\ una\ o\ las\ dos\ asignaturas\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

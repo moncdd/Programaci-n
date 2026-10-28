@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio07
+comment0.text=\r\n\ 7.\ Escribe\ un\ programa\ que\ lea\ una\ temperatura\ \r\n\ introducida\ a\ trav\u00E9s\ de\ teclado\ y\ muestre\ \r\n\ por\ pantalla\ la\ actividad\ m\u00E1s\ apropiada\ para\ dicha\r\n\ temperatura\ teniendo\ en\ cuenta\ los\ siguientes\ criterios.\r\n\ ACTIVIDAD\ TEMPERATURA\ IDONEA\r\n\ Nataci\u00F3n\ temp\ >\ 30\r\n\ Tenis\ 20\ <\ temp\ <\=\ 30\r\n\ Golf\ 10\ <\ temp\ <\=\ 20\r\n\ Esqu\u00ED\ 5\ <\ temp\ <\=\ 10\r\n\ Parch\u00EDs\ temp\ <\=\ 5\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

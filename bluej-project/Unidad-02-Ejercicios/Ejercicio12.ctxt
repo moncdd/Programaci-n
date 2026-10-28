@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio12
+comment0.text=\r\n\ Dise\u00F1ar\ un\ programa\ que\ calcule\ el\ precio\ de\ un\ billete\ de\ ida\ y\ vuelta\ por\ avi\u00F3n,\ \r\n\ conociendo\ la\ distancia\ a\ recorrer,\ el\ n\u00FAmero\ de\ d\u00EDas\ de\ estancia\ y\ sabiendo\ que\ si\ \r\n\ la\ distancia\ es\ superior\ a\ 1.000\ Km.\ y\ el\ n\u00FAmero\ de\ d\u00EDas\ de\ estancia\ es\ superior\ a\ 7,\ \r\n\ la\ l\u00EDnea\ a\u00E9rea\ le\ hace\ un\ descuento\ del\ 30\ %.\ (Precio\ por\ kil\u00F3metro\ \=\ 0,05\u20AC.).\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

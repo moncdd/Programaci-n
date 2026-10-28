@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio03
+comment0.text=\r\n\ 3.\ A\u00F1adir\ al\ programa\ anterior\ el\ c\u00F3digo\ \r\n\ necesario\ para\ cobrar\ una\ comisi\u00F3n\ del\ 0,2%\ \r\n\ si\ cambiamos\ menos\ de\ 100$\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

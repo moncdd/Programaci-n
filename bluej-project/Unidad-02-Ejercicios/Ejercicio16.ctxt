@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio16
+comment0.text=\r\n\ Programa\ que\ lee\ una\ nota\ num\u00E9rica\ y\ escribe\ la\ correspondiente\ calificaci\u00F3n\:\ \r\n\ NOTA\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ CALIFICACI\u00D3N\r\n\ INFERIOR\ A\ 5\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ SUSPENSO\r\n\ 5\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ SUFICIENTE\ \r\n\ MAYOR\ QUE\ 5\ Y\ MENOR\ QUE\ 7\ \ \ BIEN\r\n\ ENTRE\ 7\ Y\ 8.9\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ NOTABLE\r\n\ IGUAL\ O\ MAYOR\ QUE\ 9\ \ \ \ \ \ \ \ \ SOBRESALIENTE\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

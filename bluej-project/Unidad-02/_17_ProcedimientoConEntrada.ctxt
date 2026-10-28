@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=_17_ProcedimientoConEntrada
+comment0.text=\r\n\ Ejemplo\ de\ un\ subprograma\ que\ si\ tiene\ entrada\r\n\ y\ no\ tiene\ salida\ (Procedimiento)\r\n
+comment1.params=parametro
+comment1.target=void\ ejemplo(java.lang.String)
+comment1.text=\r\n\ void\:\ indica\ que\ no\ devuelve\ datos\r\n\ (String\ parametro)\:\ indica\ que\ recibe\ un\ String\ y\ la\ variable\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ dentro\ de\ la\ funci\u00F3n\ se\ llama\ parametro\ \ \ \ \r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
