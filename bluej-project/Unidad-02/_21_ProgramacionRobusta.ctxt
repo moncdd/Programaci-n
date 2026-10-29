@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=_21_ProgramacionRobusta
+comment0.text=\r\n\ Ejemplo\ de\ programaci\u00F3n\ robusta.\r\n\ Imponemos\ una\ precondici\u00F3n\ en\ los\ datos\ de\ entrada\r\n\ para\ garantizar\ el\ correcto\ funcionamiento\ de\ la\ funci\u00F3n.\r\n\ Si\ cumplimos\ la\ precondici\u00F3n,\ el\ subprograma\ se\ compromete\r\n\ a\ tener\ una\ salida\ correcta\ (postcondici\u00F3n)\r\n
+comment1.params=notaNumerica
+comment1.target=java.lang.String\ boletinNotas(double)
+comment1.text=\r\n\ Precondici\u00F3n\:\ dado\ el\ ejercicio\ o\ enunciado,\ se\ entiende\r\n\ que\ los\ datos\ de\ entrada\ tienen\ que\ estar\ en\ el\ intervalo\ \r\n\ [0..10]\r\n
+comment2.params=dividendo\ divisor
+comment2.target=int\ divisionEntera(int,\ int)
+comment2.text=\r\n\ Precondici\u00F3n\:\ el\ divisor\ NO\ puede\ ser\ cero\r\n\ Si\ dividendo\ y\ divisor\ son\ enteros\ Y\ \r\n\ divisor\ distinto\ de\ cero,\ se\ cumple\ postcondici\u00F3n\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

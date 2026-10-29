@@ -19,7 +19,7 @@ public class Ejercicio02 {
         System.out.println("Introduce los dólares a convertir");
         dolar = teclado.nextDouble();
         euros = dolar * CAMBIO;
-        System.out.println("Tus " + dolar + " dólares son " + euros + " euros");
+        System.out.printf("Tus %.2f dólares son %.2f euros",dolar,euros);
 
     }
 
