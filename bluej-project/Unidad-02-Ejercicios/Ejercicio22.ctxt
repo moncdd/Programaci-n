@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio22
+comment0.text=\r\n\ Leer\ n\u00FAmeros\ hasta\ que\ se\ introduzca\ un\ 0.\ \r\n\ Para\ cada\ uno\ indicar\ si\ es\ par\ o\ impar.\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

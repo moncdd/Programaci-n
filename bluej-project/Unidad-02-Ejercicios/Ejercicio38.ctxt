@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio38
+comment0.text=\r\n\ Programa\ que\ lee\ de\ manera\ consecutiva\ n\u00FAmeros\ hasta\ \r\n\ que\ se\ introducen\ dos\ n\u00FAmeros\ iguales\ seguidos.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

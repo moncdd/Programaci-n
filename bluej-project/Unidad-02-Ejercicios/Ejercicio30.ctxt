@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio30
+comment0.text=\r\n\ Programa\ que\ lee\ 100\ n\u00FAmeros\ y\ cuenta\ \r\n\ cuantos\ han\ sido\ pares,\ cuantos\ impares\ \r\n\ y\ cuantos\ nulos\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

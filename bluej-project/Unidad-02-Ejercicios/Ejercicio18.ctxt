@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio18
+comment0.text=\r\n\ Programa\ que\ escribe\ los\ pares\ menores\ o\ iguales\ que\ \r\n\ un\ n\u00FAmero\ introducido,\ este\ debe\ ser\ positivo\ y\ mayor\ que\ 2\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

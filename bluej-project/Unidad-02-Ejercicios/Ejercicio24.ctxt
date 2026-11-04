@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio24
+comment0.text=\r\n\ Realizar\ un\ juego\ para\ adivinar\ un\ n\u00FAmero.\ \r\n\ Para\ ello\ genera\ un\ n\u00FAmero\ aleatorio\ N,\ y\ \r\n\ luego\ ir\ pidiendo\ n\u00FAmeros\ indicando\ \u201Cmayor\u201D\ \r\n\ o\ \u201Cmenor\u201D\ seg\u00FAn\ sea\ mayor\ o\ menor\ con\ respecto\ a\ N.\ \r\n\ El\ proceso\ termina\ cuando\ el\ usuario\ acierta.\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

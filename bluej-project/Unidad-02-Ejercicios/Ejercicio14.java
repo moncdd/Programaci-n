@@ -29,9 +29,13 @@ public class Ejercicio14 {
         
         System.out.print("Desde la última lectura has consumido "+contador+" Kw");
         
-        if(contador<100.0) consumo = GASTOS_FIJOS + (TRAMO1) * contador;
-        else if(contador>=100.0 && contador<250) consumo = GASTOS_FIJOS + (TRAMO1 * 100) + ((contador - 100) * TRAMO2);
-        else consumo = GASTOS_FIJOS + (TRAMO1 * 100) + (TRAMO2 * 150) + ((contador - 250) * TRAMO3);
+        if(contador>=0)
+        {
+            if(contador<100.0) consumo = GASTOS_FIJOS + (TRAMO1) * contador;
+            else if(contador>=100.0 && contador<250) consumo = GASTOS_FIJOS + (TRAMO1 * 100) + ((contador - 100) * TRAMO2);
+            else consumo = GASTOS_FIJOS + (TRAMO1 * 100) + (TRAMO2 * 150) + ((contador - 250) * TRAMO3);
+        }
+        else System.out.println("Error en la lectura");
 
         System.out.println("Tu consumo es de "+consumo+" €");
     }

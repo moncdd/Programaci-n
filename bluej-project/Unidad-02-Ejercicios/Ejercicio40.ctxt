@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio40
+comment0.text=\r\n\ Programa\ que\ lee\ 9\ n\u00FAmeros,\ y\ en\ el\ caso\ en\ el\ que\ el\ primero\ \r\n\ introducido\ sea\ igual\ al\ \u00FAltimo,\ nos\ muestra\ la\ media.\ \r\n\ En\ caso\ contrario,\ no\ se\ mostrar\u00E1\ nada.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

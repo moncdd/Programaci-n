@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio21
+comment0.text=\r\n\ Leer\ un\ n\u00FAmero\ e\ indicar\ si\ es\ positivo\ o\ negativo.\ \r\n\ El\ proceso\ se\ repetir\u00E1\ hasta\ que\ se\ introduzca\ un\ 0.\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

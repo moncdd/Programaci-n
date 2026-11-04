@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio26
+comment0.text=\r\n\ Pedir\ n\u00FAmeros\ hasta\ que\ se\ introduzca\ uno\ negativo,\ y\ calcular\ la\ media.\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

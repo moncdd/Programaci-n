@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio44
+comment0.text=\r\n\ \ \ \ \ \ \ \ \ Pedir\ 10\ n\u00FAmeros.\ \r\n\ \ \ \ \ \ \ \ \ Mostrar\ la\ media\ de\ los\ n\u00FAmeros\ positivos,\ \r\n\ \ \ \ \ \ \ \ \ la\ media\ de\ los\ n\u00FAmeros\ negativos\ y\ \r\n\ \ \ \ \ \ \ \ \ la\ cantidad\ de\ ceros.\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

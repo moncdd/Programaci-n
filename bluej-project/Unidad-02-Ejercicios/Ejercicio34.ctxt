@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio34
+comment0.text=\r\n\ Pide\ un\ n\u00FAmero\ (que\ debe\ estar\ entre\ 0\ y\ 10)\ y\ \r\n\ mostrar\ la\ tabla\ de\ multiplicar\ de\ dicho\ n\u00FAmero.\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio37
+comment0.text=\r\n\ Programa\ que\ lee\ 11\ n\u00FAmeros\ comprendidos\ entre\ el\ 20\ y\ 40,\ \r\n\ ambos\ inclusive.\ En\ el\ caso\ en\ el\ que\ alg\u00FAn\ n\u00FAmero\ introducido\ \r\n\ no\ se\ encontrara\ dentro\ del\ rango\ permitido,\ se\ mostrar\u00E1\ un\ mensaje\ \r\n\ de\ error\ y\ seguir\u00E1\ pidiendo\ n\u00FAmeros.\ El\ programa\ finalizar\u00E1\ cuando\ \r\n\ se\ hayan\ introducido\ 11\ n\u00FAmeros\ v\u00E1lidos\ y\ mostrar\u00E1\ el\ n\u00FAmero\ m\u00E1ximo\ \r\n\ introducido\ de\ los\ 11\ v\u00E1lidos.\ Adem\u00E1s\ indicar\u00E1\ cu\u00E1ntos\ n\u00FAmeros\ de\ los\ \r\n\ introducidos\ no\ han\ sido\ v\u00E1lidos.\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

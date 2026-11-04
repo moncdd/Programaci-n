@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio17
+comment0.text=\r\n\ Programa\ que\ lee\ un\ n\u00FAmero\ entero\ positivo\ mayor\ que\ 2.\ \r\n\ Si\ el\ n\u00FAmero\ introducido\ no\ cumple\ estas\ condiciones\ \r\n\ se\ pide\ de\ nuevo\ al\ usuario\ que\ lo\ introduzca.\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

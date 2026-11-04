@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio36
+comment0.text=\r\n\ Programa\ que\ lea\ dos\ n\u00FAmeros\ enteros\ y\ muestre\ por\ pantalla\ \r\n\ todos\ los\ n\u00FAmeros\ comprendidos\ entre\ esos\ dos,\ ambos\ incluidos.\ \r\n\ El\ programa\ no\ debe\ suponer\ que\ el\ primero\ ser\u00E1\ menor\ que\ el\ segundo\ \r\n\ ni\ viceversa,\ pero\ s\u00ED\ deber\u00E1\ tenerlo\ en\ cuenta\ para\ mostrar\ los\ n\u00FAmeros\ \r\n\ en\ orden\ creciente\ o\ decreciente\ seg\u00FAn\ corresponda.\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

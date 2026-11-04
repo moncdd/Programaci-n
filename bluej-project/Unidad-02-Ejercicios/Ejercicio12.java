@@ -7,6 +7,8 @@
 
 public class Ejercicio12 {
     public static void main(String[] args) {
+        // Constante
+        final double PRECIO_KM = 0.05;
         //Declaramos variables
         int kms,dias;
         double precio;
@@ -18,10 +20,10 @@ public class Ejercicio12 {
         dias = teclado.nextInt();
         
         // Calculo el precio de ida y vuelta
-        precio = 2 * 0.05 * kms;
+        precio = 2 * PRECIO_KM * kms;
         // Aplico descuento si procede
         if(kms>1000 && dias>7)
-            precio = 0.7*precio; //70% descuento
+            precio = 0.7*precio; //30% descuento
         
         System.out.println("El precio del billete de ida-vuelta es: "+precio);
         

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio20
+comment0.text=\r\n\ Leer\ un\ n\u00FAmero\ y\ mostrar\ su\ cuadrado,\ \r\n\ repetir\ el\ proceso\ hasta\ que\ se\ introduzca\ un\ n\u00FAmero\ negativo.\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

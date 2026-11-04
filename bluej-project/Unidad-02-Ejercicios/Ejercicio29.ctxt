@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio29
+comment0.text=\r\n\ Programa\ que\ lee\ una\ secuencia\ de\ notas\ (0\ \u2013\ 10)\ terminada\ al\ introducir\ \u20131\ \r\n\ y\ cuenta\ el\ n\u00BA\ de\ suspensos,\ aprobados,\ notables\ y\ sobresalientes.\ \r\n\ Validar\ que\ las\ notas\ introducidas\ sean\ correctas.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
